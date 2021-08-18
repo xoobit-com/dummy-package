@@ -1,0 +1,7 @@
+{
+    "name": "xoobit-com/dummy-package",
+    "description": "xoobit.com - Dummy package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
